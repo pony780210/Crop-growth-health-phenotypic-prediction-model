@@ -2,6 +2,10 @@
 
 This image-based model assesses crop health by predicting disease, pest, and growth-status labels from visible plant phenotypes. A single ConvNeXt-Tiny network produces 111 outputs across the three tasks.
 
+## Model download
+
+[Download the model from Google Drive](https://drive.google.com/drive/folders/12abHI-iPnksB-RsNHzff1hVS0iZ5h4-N?usp=drive_link)
+
 ## Model and data
 
 | Item | Details |
